@@ -1,0 +1,7 @@
+.git
+workspace/build
+workspace/install
+workspace/log
+workspace/src/*
+!workspace/src/minimal_publisher
+!workspace/src/minimal_subscriber
